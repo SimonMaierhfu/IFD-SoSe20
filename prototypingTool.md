@@ -15,10 +15,11 @@ Simon Maier
 </br>
 ## Fidelity
 </br>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+|Fidelity   |Interaktivität   | Visualisierung  | Inhaltsentwicklung  |   |
+|---|---|---|---|---|
+|Low    |   |   |   |   |
+|High     || x     || x     | | x    |   |
+|   |   |   |   |   |
 Fidelity| Interaktivität | Visualisierung | Inhaltsentwicklung
 ------- | -------------- | -------------- | ------------------
 Low     |                |                | 

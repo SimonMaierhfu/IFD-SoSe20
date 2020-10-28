@@ -38,14 +38,14 @@ Simon Maier
 
 
 ## Grenzen:
-Es gibt nur 6 Segment vorlagen und man kann keine Place holder Images nutzen.
-Wire Framing ist also nicht leicht
-Der vergleich zwischen Lay-outs ist nicht wirklich möglich
-Es ist optimiert dafür das man in 30 Minuten eine stehende Webseite hat
-Schnelle Integration 
-Wenig zeit zum planen
-Wenig Freiheit
-Auch ist Google Sites nicht für längerfristige Business Websites zu empfehlen 
+* Es gibt nur 6 Segment vorlagen und man kann keine Place holder Images nutzen.
+  * Wire Framing ist also nicht leicht
+  * Der vergleich zwischen Lay-outs ist nicht wirklich möglich
+* Es ist optimiert dafür das man in 30 Minuten eine stehende Webseite hat
+  * Schnelle Integration 
+  * Wenig zeit zum planen
+  * Wenig Freiheit
+  * Auch ist Google Sites nicht für längerfristige Business Websites zu empfehlen 
 
 
 

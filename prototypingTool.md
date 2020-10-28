@@ -11,7 +11,7 @@ Simon Maier
   * Maps
   * Spreadsheet
   </br><img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
-
+</br><img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page4.png">
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
 Das einfugen von Media ist nicht ganz intuitive

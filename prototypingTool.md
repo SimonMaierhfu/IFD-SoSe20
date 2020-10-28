@@ -22,8 +22,9 @@ Simon Maier
 | High  | x  | x  |  x |
 ## Komplexität:
 * Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
-* Das einfugen von Media ist nicht ganz intuitive
+* Das einfügen von Media ist nicht ganz intuitive
 * Es gibt sehr viele Optionen zur Gestaltung und Integration
+  * Anfänglich wird man ein bisschen erschlagen von den Möglichkeiten
 * Wie bei Wordpress gibt es aber Vorlagen
 * Fülltexte bieten Anleitungen und Empfehlungen für den Inhalt
   * Leitfaden für Anfänger somit gegeben

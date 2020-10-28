@@ -15,12 +15,16 @@ Simon Maier
 </br>
 ## Fidelity
 </br>
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
 
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
 Das einfugen von Media ist nicht ganz intuitive

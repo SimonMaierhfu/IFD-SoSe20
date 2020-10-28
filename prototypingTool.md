@@ -1,5 +1,5 @@
 # Google Sites 
-Richard Walther. 
+Richard Walther</br> 
 Simon Maier
 
 ## Kernfeatures:

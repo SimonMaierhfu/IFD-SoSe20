@@ -13,8 +13,8 @@ Simon Maier
   </br><img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
 </br><img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page4.png">
 </br>
-## Fidelity
-</br>
+## Fidelity:
+
 
 
 |Fidelity   | Interaktivität  | Visualisierung  | Inhaltsentwicklung   |

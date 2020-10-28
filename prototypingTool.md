@@ -29,11 +29,12 @@ Simon Maier
   * Leitfaden für Anfänger somit gegeben
 <br/>
 <img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page6.1.png">
+<img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page6.2png.png">
 
 * Doppelklick resultiert in dem Kreis UI menu wo der Nutzer dieauswahl hat zwischen Text (mitte), Embed (links), Drive (unten), Upload (rechts) und Images (oben) 
 
 ## Prototyp Beispiele:
-
+<https://github.com/SimonMaierhfu/IFD-SoSe20/blob/main/Bildschirmvideo%20aufnehmen%202020-10-28%20um%2013.22.53.zip>
 
 
 ## Grenzen:

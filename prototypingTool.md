@@ -15,10 +15,11 @@ Simon Maier
 </br>
 ## Fidelity
 </br>
-|Fidelity   |Interaktivität   | Visualisierung  | Inhaltsentwicklung  |   |
-|---|---|---|---|---|
-|Low    |   |   |   |   |
-|High     || x     || x     | | x    |   |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.

@@ -3,15 +3,14 @@ Richard Walther
 Simon Maier
 
 ## Kernfeatures:
-Teil von Google G Suite
-Erstellung einer Webseite ohne code 
-page3.png
-Kollaboration wie bekannt von Google Docs
-Einfache Integration von Gadgets
-Kalender
-Maps
-Spreadsheet
-![Image of Yaktocat](https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png)
+* Teil von Google G Suite
+* Erstellung einer Webseite ohne code 
+* Kollaboration wie bekannt von Google Docs
+* Einfache Integration von Gadgets
+  * Kalender
+  * Maps
+  * Spreadsheet
+                                   ![Image of Yaktocat](https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png)
 
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.

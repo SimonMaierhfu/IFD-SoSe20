@@ -21,14 +21,16 @@ Simon Maier
 | Low  |   |   |   |
 | High  | x  | x  |  x |
 ## Komplexität:
-Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
-Das einfugen von Media ist nicht ganz intuitive
-Es gibt sehr viele Optionen zur Gestaltung und Integration
-Wie bei Wordpress gibt es aber Vorlagen
-Fülltexte bieten Anleitungen und Empfehlungen für den Inhalt
-Leitfaden für Anfänger somit gegeben
+* Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
+* Das einfugen von Media ist nicht ganz intuitive
+* Es gibt sehr viele Optionen zur Gestaltung und Integration
+* Wie bei Wordpress gibt es aber Vorlagen
+* Fülltexte bieten Anleitungen und Empfehlungen für den Inhalt
+  * Leitfaden für Anfänger somit gegeben
+<br/>
+<img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page6.1.png">
 
-Doppelklick resultiert in dem Kreis UI menu wo der Nutzer dieauswahl hat zwischen Text (mitte), Embed (links), Drive (unten), Upload (rechts) und Images (oben) 
+* Doppelklick resultiert in dem Kreis UI menu wo der Nutzer dieauswahl hat zwischen Text (mitte), Embed (links), Drive (unten), Upload (rechts) und Images (oben) 
 
 ## Prototyp Beispiele:
 

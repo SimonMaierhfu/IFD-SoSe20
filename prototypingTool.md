@@ -10,8 +10,7 @@ Simon Maier
   * Kalender
   * Maps
   * Spreadsheet
-  </br>
-                                   ![Image of Yaktocat](https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png)
+  </br>![Image of Yaktocat](https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png)
 
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.

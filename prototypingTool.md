@@ -10,7 +10,7 @@ Simon Maier
   * Kalender
   * Maps
   * Spreadsheet
-  </br><img style="float:right , width:50%" href="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
+  </br><img style="float:right , width:50%" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
 
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.

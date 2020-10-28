@@ -1,7 +1,7 @@
 # Google Sites 
 Richard Walther</br> 
 Simon Maier
-<img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
+
 ## Kernfeatures:
 * Teil von Google G Suite
 * Erstellung einer Webseite ohne code 
@@ -10,7 +10,7 @@ Simon Maier
   * Kalender
   * Maps
   * Spreadsheet
-  </br>
+  </br><img style="float:right" src="https://raw.githubusercontent.com/SimonMaierhfu/IFD-SoSe20/main/page3.png">
 
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.

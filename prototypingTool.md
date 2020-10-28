@@ -19,11 +19,7 @@ Simon Maier
 |---|---|---|---|---|
 |Low    |   |   |   |   |
 |High     || x     || x     | | x    |   |
-|   |   |   |   |   |
-Fidelity| Interaktivität | Visualisierung | Inhaltsentwicklung
-------- | -------------- | -------------- | ------------------
-Low     |                |                | 
-High    | x              | x              | x 
+
 ## Komplexität:
 Es braucht eine relative kleine Einarbeitungszeit wenn man mit Google Präsentation vertraut ist.
 Das einfugen von Media ist nicht ganz intuitive

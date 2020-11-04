@@ -9,4 +9,3 @@
 <h5> Aufgabe 2.2:</h5>
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/Intranet-GUI.pdf"> Intranet GUI </a>
 <h5> Aufgabe 3:</h5>
-<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/d83fa336-d719-4609-bb6c-dd55d84a9ade-8d6c/" frameborder="0" allowfullscreen></iframe>

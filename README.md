@@ -8,5 +8,5 @@
 <a href="https://github.com/SimonMaierhfu/IFD-SoSe20/blob/main/prototypingTool.md"> Google Sites Prototyping Tool </a>
 <h5> Aufgabe 2.2:</h5>
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/Intranet-GUI.pdf"> Intranet GUI </a>
-<h5> Aufgabe 3:</h5>
+<h3> Aufgabe 3:</h5>
 <a href="https://xd.adobe.com/view/d83fa336-d719-4609-bb6c-dd55d84a9ade-8d6c/"> Intranet Prototype </a>

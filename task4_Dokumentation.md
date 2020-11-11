@@ -16,4 +16,4 @@ Welche Kompetenzen soll die VUI des Intranets besitzen? Welche Infos werden bere
 * Füge Abgabe XY zu meinem Kalender am xx.xx.xxxx um xx:xx .
 * Fasse meinen Tag heute zusammen.
 
-!(https://github.com/SimonMaierhfu/IFD-SoSe20/blob/main/Intranet%20VUI%20(4).png)
+(https://github.com/SimonMaierhfu/IFD-SoSe20/blob/main/Intranet%20VUI%20(4).png)

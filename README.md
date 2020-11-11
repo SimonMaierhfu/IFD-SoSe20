@@ -13,4 +13,4 @@
 <h3> Aufgabe 4: </h3>
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/Intranet_VUI%20.png">Dialog- Flow</a>
 <br>
-<a href="https://simonmaierhfu.github.io/IFD-SoSe20/task4_Dokumentation.md">Dokumentation</a>
+<a href="https://github.com/SimonMaierhfu/IFD-SoSe20/blob/main/task4_Dokumentation.md">Dokumentation</a>

@@ -15,3 +15,5 @@ Welche Kompetenzen soll die VUI des Intranets besitzen? Welche Infos werden bere
 * Welche Veranstaltung habe ich heute?
 * Füge Abgabe XY zu meinem Kalender am xx.xx.xxxx um xx:xx .
 * Fasse meinen Tag heute zusammen.
+
+!(Intranet VUI (4).png)

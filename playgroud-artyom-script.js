@@ -13,7 +13,7 @@ window.addEventListener("load", function (){
     function startContinuousArtyom() {
 
         setTimeout(
-            function (): void {
+            function (){
                 artyom.initialize({
                     lang: "de-DE",
                     continuous: true,

@@ -19,7 +19,6 @@ window.addEventListener("load", function (){
                     continuous: true,
                     listen: true,
                     interimResults: true,
-                    name: "EVE",
                     debug: true
                 }).then(function (){
                     console.log("Ready!");

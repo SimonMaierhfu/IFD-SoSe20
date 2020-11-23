@@ -21,7 +21,7 @@ window.addEventListener("load", function (){
                     interimResults: true,
                     name: "EVE",
                     debug: true
-                }).then(function (): void {
+                }).then(function (){
                     console.log("Ready!");
                 });
             },

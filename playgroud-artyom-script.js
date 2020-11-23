@@ -1,5 +1,5 @@
   const artyom = new Artyom();
-window.addEventListener("load", function (): void {
+window.addEventListener("load", function (){
   
 
     artyom.addCommands([{

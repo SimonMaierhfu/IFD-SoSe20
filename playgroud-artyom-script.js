@@ -1,26 +1,34 @@
-window.addEventListener("load", function () {
-    var artyom = new Artyom();
-    artyom.addCommands({
-        indexes: ["erstelle Aufgabe *"],
-        smart: true,
-        action: function (i, wildcard) {
-            console.log("Neue Aufgabe wird erstellt: " + wildcard);
-        }
-    });
+  const artyom = new Artyom();
+window.addEventListener("load", function (): void {
+  
+
+    artyom.addCommands([{
+        indexes: ["Hallo"],
+        action: function (i) {
+            console.log("YEAh Motherfucker");
+            artyom.say("Hallo Student");
+        },
+    }]);
+
     function startContinuousArtyom() {
-        artyom.fatality();
-        setTimeout(function () {
-            artyom.initialize({
-                lang: "de-DE",
-                continuous: true,
-                listen: true,
-                interimResults: true,
-                debug: true
-            }).then(function () {
-                console.log("Ready!");
-            });
-        }, 250);
+
+        setTimeout(
+            function (): void {
+                artyom.initialize({
+                    lang: "de-DE",
+                    continuous: true,
+                    listen: true,
+                    interimResults: true,
+                    name: "EVE",
+                    debug: true
+                }).then(function (): void {
+                    console.log("Ready!");
+                });
+            },
+            250);
     }
+
     startContinuousArtyom();
+
 });
 //# sourceMappingURL=playgroud-artyom-script.js.map

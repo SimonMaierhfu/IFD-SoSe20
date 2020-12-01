@@ -2,7 +2,7 @@
 window.addEventListener("load", function (){
   document.getElementById("start").addEventListener("click", function(){
    document.getElementById("start").remove();
-    document.getElementById("eve").addClass(active);
+    document.getElementById("eve").addClass("active");
 
     artyom.addCommands([{
         indexes: ["Hallo"],

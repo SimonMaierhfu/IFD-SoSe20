@@ -12,7 +12,6 @@ window.addEventListener("load", function (){
 
     function startContinuousArtyom() {
 
-        setTimeout(
             function (){
                 artyom.initialize({
                     lang: "de-DE",
@@ -20,11 +19,9 @@ window.addEventListener("load", function (){
                     listen: true,
                     interimResults: true,
                     debug: true
-                }).then(function (){
-                    console.log("Ready!");
+                }).then(function ()
                 });
-            },
-            250);
+            };
     }
 
     startContinuousArtyom();

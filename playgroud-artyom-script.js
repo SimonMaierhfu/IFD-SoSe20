@@ -11,17 +11,14 @@ window.addEventListener("load", function (){
     }]);
 
     function startContinuousArtyom() {
-
-            function (){
                 artyom.initialize({
                     lang: "de-DE",
                     continuous: true,
                     listen: true,
                     interimResults: true,
                     debug: true
-                }).then(function ()
                 });
-            };
+            
     }
 
     startContinuousArtyom();

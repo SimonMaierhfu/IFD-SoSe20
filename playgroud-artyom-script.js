@@ -45,12 +45,12 @@ window.addEventListener("load", function (){
                 }).then(function () {
                   
                  artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
-                  var auswahl="'<p>' Probiere folgende Befehle: '<ul>'
-                  '<li>'Zusammenfassung'</li>'
-                  '<li>'Veranstaltungen'</li>'
-                  '<li>'Aktuelle Infos'</li>'
-                  '<li>'In welchem Raum findet Medienethik statt'</li>'
-                  '</ul>''</p>'";
+                  var auswahl="<p> Probiere folgende Befehle: <ul>
+                  <li>Zusammenfassung</li>
+                  <li>Veranstaltungen</li>
+                  <li>Aktuelle Infos</li>
+                  <li>In welchem Raum findet Medienethik statt</li>
+                  </ul></p>";
                  document.getElementById("text").innerHtml= auswahl;
                 });
             

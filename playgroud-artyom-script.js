@@ -2,8 +2,7 @@
 window.addEventListener("load", function (){
   document.getElementById("start").addEventListener("click", function(){
    document.getElementById("start").remove();
-     var element = document.getElementById("eve");
-  element.classList.add("active");
+  
 
     artyom.addCommands([{
         indexes: ["Hallo Eve","Eve"],
@@ -15,14 +14,14 @@ window.addEventListener("load", function (){
       indexes: ["Zusammenfassung","Gib mir bitte eine Zusammenfassung"],
         action: function (i) {
           
-            artyom.say("Du hast heute zwei Veranstaltungen. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00! Kann ich dir sonst noch helfen?");
+            artyom.say("Du hast heute um 9:45- 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00! Kann ich dir sonst noch helfen?");
         }
     },
      {
       indexes: ["Veranstaltungen","Was für Veranstaltungen habe ich heute"],
         action: function (i) {
           
-            artyom.say("Du hast heute zwei Veranstaltungen. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 Projekt Meeting.");
+            artyom.say("Du hast heute zwei Fächer. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");
         }
     },
    {
@@ -46,9 +45,9 @@ artyom.when("NOT_COMMAND_MATCHED", function(){
                     debug: true
                 }).then(function () {
                   
-                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
-                  var auswahl= "Probiere folgende Befehle: Zusammenfassung, Veranstaltungen, Aktuelle Infos, In welchem Raum findet Medienethik statt";
-                 document.getElementById("text").innerHtml= auswahl;
+                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.",{
+                 });
+                 document.getElementById("text").innerHtml= 'Du kannst folgende Befehle testen <br><br> "Gib mir eine Zusammenfassung?" <br> "Was für Veranstaltungen habe ich heute" <br> "Füge eine Abgabe Datum hinzu."';
                 });
             
     };

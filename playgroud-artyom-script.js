@@ -58,8 +58,7 @@ artyom.when("NOT_COMMAND_MATCHED", function(){
                     debug: true
                 }).then(function () {
                   
-                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach aktuellen Infos fragen.",{
-                 });
+                 artyom.say("Hi ich bin der Sprachassistent Marie. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach aktuellen Infos fragen.");
                  document.getElementById("text").innerHtml= 'Du kannst folgende Befehle testen <br><br> "Gib mir eine Zusammenfassung?" <br> "Was für Veranstaltungen habe ich heute" <br> "In welchem Raum findet Medienethik statt?" <br> "Sag mir die aktuellen Infos."<br>';
                 });
             

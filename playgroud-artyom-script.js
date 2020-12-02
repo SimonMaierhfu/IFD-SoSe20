@@ -8,10 +8,16 @@ window.addEventListener("load", function (){
     artyom.addCommands([{
         indexes: ["Hallo"],
         action: function (i) {
-            console.log("YEAh Motherfucker");
-            artyom.say("Hallo Student");
-        },
-      
+          
+            artyom.say("Hi Student");
+        }},
+      {
+      indexes: ["Zusammenfassung","Gib mir bitte eine Zusammenfassung"],
+        action: function (i) {
+          
+            artyom.say("Du hast heute zwei Veranstaltungen. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 Projekt Meeting.");
+        }
+    },
      
     }]);
 
@@ -24,7 +30,7 @@ window.addEventListener("load", function (){
                     debug: true
                 }).then(function () {
                    
-                    artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach einer Zusammenfassung für den heutigen Tag fragen.");
+                    artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
                 });
             
     };

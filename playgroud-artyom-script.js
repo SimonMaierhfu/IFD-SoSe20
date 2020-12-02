@@ -24,7 +24,7 @@ window.addEventListener("load", function (){
                     debug: true
                 }).then(function () {
                    
-                    artyom.say("Hallo ich bin EVE. Wie kann ich dir helfen? ");
+                    artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach einer Zusammenfassung für den heutigen Tag fragen.");
                 });
             
     };

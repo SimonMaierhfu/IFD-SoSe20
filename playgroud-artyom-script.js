@@ -15,21 +15,21 @@ window.addEventListener("load", function (){
       indexes: ["Zusammenfassung","Gib mir bitte eine Zusammenfassung"],
         action: function (i) {
           
-            artyom.say("Du hast heute um 9:45- 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00! Kann ich dir sonst noch helfen?");
+            artyom.say("Du hast heute um 9 45- 11 15 Streaming Anwendungen und um 16:15 das Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00! Kann ich dir sonst noch helfen?");
         }
     },
      {
       indexes: ["Was für Veranstaltungen habe ich heute"],
         action: function (i) {
           
-            artyom.say("Du hast heute zwei Fächer. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");
+            artyom.say("Du hast heute zwei Fächer. Um 9 45- 11 15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");
         }
     },
    {
       indexes: ["In welchem Raum findet Medienethik statt"],
         action: function (i) {
           
-            artyom.say("Medienethik findet in DM-17 in alfaview statt.");
+            artyom.say("Medienethik findet in D M 17 in alfaview statt.");
         }
     },
    {
@@ -44,6 +44,13 @@ window.addEventListener("load", function (){
         action: function (i) {
           
             artyom.say("Kann ich dir sonst noch irgendwie weiter helfen?");
+        }
+    },
+                           {
+      indexes: ["nein","stop","tschüss"],
+        action: function (i) {
+          
+            artyom.say("Bis zum nächsten Mal.");
         }
     },
     ]);

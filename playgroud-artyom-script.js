@@ -25,6 +25,13 @@ window.addEventListener("load", function (){
             artyom.say("Du hast heute zwei Veranstaltungen. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 Projekt Meeting.");
         }
     },
+   {
+      indexes: ["Veranstaltungen","Was für Veranstaltungen habe ich heute"],
+        action: function (i) {
+          
+            artyom.say("Du hast heute zwei Veranstaltungen. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 Projekt Meeting.");
+        }
+    },
      
     ]);
 
@@ -36,8 +43,15 @@ window.addEventListener("load", function (){
                     interimResults: true,
                     debug: true
                 }).then(function () {
-                   
-                    artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
+                  
+                 artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
+                  var auswahl="'<p>' Probiere folgende Befehle: '<ul>'
+                  '<li>'Zusammenfassung'</li>'
+                  '<li>'Veranstaltungen'</li>'
+                  '<li>'Aktuelle Infos'</li>'
+                  '<li>'In welchem Raum findet Medienethik statt'</li>'
+                  '</ul>''</p>'";
+                 document.getElementById("text").innerHtml= auswahl;
                 });
             
     };

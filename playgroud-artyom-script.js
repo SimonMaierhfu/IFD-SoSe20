@@ -47,11 +47,7 @@ artyom.when("NOT_COMMAND_MATCHED", function(){
                 }).then(function () {
                   
                  artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
-                  var auswahl= "Probiere folgende Befehle:
-                  Zusammenfassung
-                  Veranstaltungen
-                  Aktuelle Infos
-                  In welchem Raum findet Medienethik statt";
+                  var auswahl= "Probiere folgende Befehle: Zusammenfassung, Veranstaltungen, Aktuelle Infos, In welchem Raum findet Medienethik statt";
                  document.getElementById("text").innerHtml= auswahl;
                 });
             

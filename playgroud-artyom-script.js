@@ -6,7 +6,7 @@ window.addEventListener("load", function (){
   element.classList.add("active");
 
     artyom.addCommands([{
-        indexes: ["Hallo"],
+        indexes: ["Hallo Eve","Eve"],
         action: function (i) {
           
             artyom.say("Hi Student");
@@ -34,7 +34,9 @@ window.addEventListener("load", function (){
     },
      
     ]);
-
+artyom.when("NOT_COMMAND_MATCHED", function(){
+            artyom.say("Ich konnte dich leider nicht verstehen. Rede deutlicher!");
+        });
     function startContinuousArtyom() {
                 artyom.initialize({
                     lang: "de-DE",
@@ -44,7 +46,7 @@ window.addEventListener("load", function (){
                     debug: true
                 }).then(function () {
                   
-                 artyom.say("Hallo ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
+                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.");
                   var auswahl="<p> Probiere folgende Befehle: <ul>
                   <li>Zusammenfassung</li>
                   <li>Veranstaltungen</li>

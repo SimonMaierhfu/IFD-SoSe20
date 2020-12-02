@@ -15,14 +15,14 @@ window.addEventListener("load", function (){
       indexes: ["Zusammenfassung","Gib mir bitte eine Zusammenfassung"],
         action: function (i) {
           
-            artyom.say("Du hast heute um 9 45- 11 15 Streaming Anwendungen und um 16:15 das Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00! Kann ich dir sonst noch helfen?");
+            artyom.say("Du hast heute um 9:45 - 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting. Außerderm hast du 3 neue Mails erhalten. Denk auch an deine Interface Design Abgabe morgen 18:00!");
         }
     },
      {
       indexes: ["Was für Veranstaltungen habe ich heute"],
         action: function (i) {
           
-            artyom.say("Du hast heute zwei Fächer. Um 9 45- 11 15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");
+            artyom.say("Du hast heute zwei Fächer. Um 9:45 - 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");
         }
     },
    {
@@ -55,7 +55,7 @@ window.addEventListener("load", function (){
     },
     ]);
 artyom.when("NOT_COMMAND_MATCHED", function(){
-            artyom.say("Ich konnte dich leider nicht verstehen. Rede deutlicher!");
+            artyom.say("Das habe ich leider nicht verstanden.");
         });
     function startContinuousArtyom() {
                 artyom.initialize({

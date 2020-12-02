@@ -18,7 +18,7 @@ window.addEventListener("load", function (){
         }
     },
      {
-      indexes: ["Veranstaltungen","Was für Veranstaltungen habe ich heute"],
+      indexes: ["Was für Veranstaltungen habe ich heute"],
         action: function (i) {
           
             artyom.say("Du hast heute zwei Fächer. Um 9:45- 11:15 Streaming Anwendungen und um 16:15 das Projekt Meeting.");

@@ -11,6 +11,8 @@ window.addEventListener("load", function (){
             console.log("YEAh Motherfucker");
             artyom.say("Hallo Student");
         },
+      
+     
     }]);
 
     function startContinuousArtyom() {
@@ -20,9 +22,12 @@ window.addEventListener("load", function (){
                     listen: true,
                     interimResults: true,
                     debug: true
+                }).then(function () {
+                   
+                    artyom.say("Hallo ich bin EVE. Wie kann ich dir helfen? ");
                 });
             
-    }
+    };
 
     startContinuousArtyom();
   });

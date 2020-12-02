@@ -38,6 +38,13 @@ window.addEventListener("load", function (){
             artyom.say("Informationen zu den geplanten Lehrformen können in der entsprechenden Veranstaltung hier im Intranet unter dem Reiter „Info/Beschreibung“ abgerufen werden. Hier finden Sie „Informationen zum E-Learning/Distance-Learning-Angebot“ sowie je nach Veranstaltung Direktlinks zum FELIX-Kurs und / oder zum Alphaview-Veranstaltungsraum.");
         }
     }, 
+   {
+      indexes: ["danke"],
+        action: function (i) {
+          
+            artyom.say("Kann ich dir sonst noch irgendwie weiter helfen?");
+        }
+    },
     ]);
 artyom.when("NOT_COMMAND_MATCHED", function(){
             artyom.say("Ich konnte dich leider nicht verstehen. Rede deutlicher!");

@@ -31,7 +31,13 @@ window.addEventListener("load", function (){
             artyom.say("Medienethik findet in DM-17 in alfaview statt.");
         }
     },
-     
+   {
+      indexes: ["Sag mir die aktuellen Infos"],
+        action: function (i) {
+          
+            artyom.say("Informationen zu den geplanten Lehrformen können in der entsprechenden Veranstaltung hier im Intranet unter dem Reiter „Info/Beschreibung“ abgerufen werden. Hier finden Sie „Informationen zum E-Learning/Distance-Learning-Angebot“ sowie je nach Veranstaltung Direktlinks zum FELIX-Kurs und / oder zum Alphaview-Veranstaltungsraum.");
+        }
+    }, 
     ]);
 artyom.when("NOT_COMMAND_MATCHED", function(){
             artyom.say("Ich konnte dich leider nicht verstehen. Rede deutlicher!");
@@ -45,7 +51,7 @@ artyom.when("NOT_COMMAND_MATCHED", function(){
                     debug: true
                 }).then(function () {
                   
-                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach Veranstaltungen fragen.",{
+                 artyom.say("Hi ich bin der Sprachassistent Eve. Ich versuche dir deinen Uni Altag zu erleichtern. Du kannst mich zum Beispiel nach aktuellen Infos fragen.",{
                  });
                  document.getElementById("text").innerHtml= 'Du kannst folgende Befehle testen <br><br> "Gib mir eine Zusammenfassung?" <br> "Was für Veranstaltungen habe ich heute" <br> "In welchem Raum findet Medienethik statt?" <br> "Sag mir die aktuellen Infos."<br>';
                 });

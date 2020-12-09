@@ -18,3 +18,8 @@
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/playground-artyom.html">VUI- Prototype</a>
 <br>
 <a href="https://drive.google.com/file/d/1qi9Z5Wfxtu083XK3-oOvWtAAF4Q3oMm3/view?usp=sharing">VUI- Prototype Video</a>
+<br>
+<h3> Aufgabe 6: </h3>
+<a href="https://simonmaierhfu.github.io/IFD-SoSe20/VR_Brille.pdf">Google Cardboard Dokumentation</a>
+<br>
+<a href="https://drive.google.com/file/d/1VFQUYOMV36AVpZd4Ah2p3vzupoDG9wcI/view?usp=sharing">Cardboard Video</a>

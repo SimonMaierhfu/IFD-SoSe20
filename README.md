@@ -23,3 +23,9 @@
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/VR_Brille.pdf">Google Cardboard Dokumentation</a>
 <br>
 <a href="https://drive.google.com/file/d/1VFQUYOMV36AVpZd4Ah2p3vzupoDG9wcI/view?usp=sharing">Cardboard Video</a>
+<br>
+<h3> Aufgabe 7: </h3>
+<a href="https://simonmaierhfu.github.io/IFD-SoSe20/VR- Storyboard.pdf">Storyboard</a>
+<br>
+<a href="https://drive.google.com/file/d/1Q7h2wVRNAXOzHlKLzhSAskBEw0w_EYUE/view?usp=sharing">VR-Konzept Video</a>
+

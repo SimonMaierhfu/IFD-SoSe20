@@ -28,4 +28,6 @@
 <a href="https://simonmaierhfu.github.io/IFD-SoSe20/VR- Storyboard.pdf">Storyboard</a>
 <br>
 <a href="https://drive.google.com/file/d/1Q7h2wVRNAXOzHlKLzhSAskBEw0w_EYUE/view?usp=sharing">VR-Konzept Video</a>
+<h3> Aufgabe 8: </h3>
+<a href="https://simonmaierhfu.github.io/IFD-SoSe20/Dokumentation_VR.html">VR- Prototype</a>
 
